@@ -27,3 +27,8 @@
  <a href="https://www.behance.net/mikaelbueno" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
 
+<div align="center">
+  
+  ![Snake animation](https://github.com/iammikael/iammikael/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
