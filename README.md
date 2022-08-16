@@ -1,4 +1,4 @@
-## Bem-vindo ao meu perfil 💻🙂!
+## Bem-vindo ao meu perfil ! 💻 🙂
 
 <div "align="left">
   <a href="https://github.com/iammikael">
